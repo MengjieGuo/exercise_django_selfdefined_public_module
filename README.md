@@ -1,0 +1,1 @@
+# exercise_django_selfdefined_public_module
